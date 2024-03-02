@@ -1,10 +1,5 @@
 <html>
   <head>
-      <style>
-        .icons {
-          
-          }
-      </style>
   </head>
   <body>
   
